@@ -10,7 +10,7 @@
 
 ![](jasminecomp.gif) 
 
-Computer Science is a powerful tool that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
+Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
 
  * Eager and Willing to Put in the Work (to develop my technical skillset):
 
@@ -22,7 +22,7 @@ I have always been passionate about technology but now I feel a special sense of
 
 I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views. I believe we must excercise our right to rise above poverty. We must work hard to do meaningful, mentally challenging and purposeful work in technology and we must work smart while changing the face of tech.
 
-**[I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House's programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
+**I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House's programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
 
 ## Furthermore...
