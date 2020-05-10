@@ -22,7 +22,7 @@ I have always been passionate about technology but now I feel a special sense of
 
 I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views. I believe we must excercise our right to rise above poverty. We must work hard to do meaningful, mentally challenging and purposeful work in technology and we must work smart while changing the face of tech.
 
-**I am intrigued by the positive impact computer programming can create in the world and I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
+**I am intrigued by the positive impact technology can create in the world when used correctly. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
 
 ## Furthermore...
