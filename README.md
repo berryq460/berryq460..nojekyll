@@ -36,8 +36,8 @@ I believe more people, especially minority women, should have a seat at the tabl
 ## Furthermore...
 _I want to become a TKH Innovation Fellow to further stregnthen my abilities to:_
 
-### Problem Solve
-A sense of accomplishment and purpose in the work I do...
+###  Solve Meaningful Problems
+I believe no amount of money will make a person happy. Time is the biggest currency and I want to invest it in doing purposeful work that can be of great service to others...
 
 ![](aha%20moment%20code.gif)
 
