@@ -69,7 +69,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 <!-- update these accordingly -->
 
 
-[2]: http://www.facebook.com/QuianaCasandraBerry
+[2]: http://www.facebook.com/BerryQ460
 [3]: https://plus.google.com/+QuianaBerry
 [6]: http://www.github.com/berryq460
 
