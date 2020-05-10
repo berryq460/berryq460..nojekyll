@@ -19,9 +19,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Computer Science is a powerful tool that can be used to solve problems ranging from larger than life to reptitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these science can compliment one another from solving complex problems in research to solving customers needs in business or biotechnology.
 
-- **_Sense of Urgency:
+- **_Eager and Willing to Put in the Work to develop my technical skillset:
 
-Now more than ever technology and virtual world is our life line whether we are a part of it or not, it shapes our world and we should all be able to at least have some fluency in not only human languages but computer languages too. My goal is to be multilingual world traveler and coder, a citizen of the world both physical and virtual.
+I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how technology has become our life-line in a time of crisis. I believe coding should be taught in all grammer schools. Whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world both physical and virtual contributing to postive change in both the cyber and physical world. I am determined to do whatever it takes.
 
 - **_Longing to Build Myself & My Community Up:
 
@@ -42,7 +42,7 @@ I am certain the Web Development & Design Internship combined with my diligence 
 
 ![](portal%20cs.gif)
 
-#### Create Collabortively
+### Create Collabortively
 ![](teamworkoffice.gif)
 
 With a renewed sense of purpose, career, life-style and community I will utilize the opportunity to network, brain-storm and create in a group so that together we can effect greater positive change while leveraging each others unique skills.
