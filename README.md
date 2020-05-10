@@ -61,6 +61,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
