@@ -30,9 +30,9 @@ I have always been passionate about technology but now I feel a special sense of
 
 ![](diversity%20in%20tech.png)
 
-I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views. I believe we must excercise our right to rise above poverty. We must work hard to do meaningful, mentally challenging and purposeful work in technology and we must work smart while changing the face of tech together.
+I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views. I believe we must excercise our right to rise above poverty. We must work hard to do meaningful and mentally challenging work in technology and we must work smart while changing the face of tech together.
 
-**I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House's programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
+**I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House community and its programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
 
 ## Furthermore...
