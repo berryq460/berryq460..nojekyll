@@ -1,12 +1,16 @@
 ## Hello TKH Staff - Welcome ! 
 
-_Grab a Seat & Get Comfortable :)
+ Get Comfortable :)
 
 ![](popcorn.gif)
 
 </div>
 
+Who Am I?
+
 ![](tornado.jpeg)
+
+My goal is to become a multilingual world traveler and coder, a citizen of the world who strives to create postive change in both the cyber and physical world. I am an adventurous, calculated risk-taker whether behind a screen or in my solo travels.
 
 **3 Top Reasons why I want to be a TKH Innovation Fellow**
 
@@ -18,7 +22,7 @@ Computer Science and technolgy are powerful tools that can be used to solve prob
 
  * Eager and Willing to Put in the Work (to develop my technical skillset):
 
-I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world who strives to create postive change in both the cyber and physical world. I am determined to do whatever it takes.
+I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. I am determined to do whatever it takes to do my part and then some.
 
  * Longing to Build Myself & My Community Up:
 
