@@ -49,10 +49,10 @@ I am certain the Web Development & Design Internship combined with my diligence 
 ![](portal%20cs.gif)
 
 ### Create Collabortively
-![](teamworkoffice.gif)
 
 With a renewed sense of purpose, career, life-style and community I will utilize the opportunity to network, brain-storm and create in a group so that together we can effect greater positive change while leveraging each others unique skills.
 
+![](teamworkoffice.gif)
 
 ### Contact Information
 
