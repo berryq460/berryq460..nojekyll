@@ -5,12 +5,9 @@ You can use the [editor on GitHub](https://github.com/berryq460/berryq460.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 </div>
-### Markdown
+### Why I want to be a TKH Fellow
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
