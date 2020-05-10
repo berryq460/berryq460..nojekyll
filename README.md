@@ -66,7 +66,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: https://www.flaticon.com/free-icon/linkedin_174857
+[7.1]: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
