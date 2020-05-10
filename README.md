@@ -8,49 +8,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![](tornado.jpeg)
 
-{% comment %}
-    Renders social networks sharing links.
-
-    Parameters:
-        - uses _data/social-buttons.yml file as a data source.
-        - uses _includes/social-buttons folder as a souce for svg files to render.
-{% endcomment %}
-<div class="social-buttons">
-    {% assign url_placeholder = "<url>" %}
-    {% assign text_placeholder = "<title>" %}
-    {% assign twitter_placeholder = "<twitter>" %}
-    {% assign page_url = "https://dmitryrogozhny.com" | append: page.url | uri_escape %}
-
-    {% for button in site.data.social-buttons %}
-
-        {% assign button_url = button.url
-                             | replace: text_placeholder, page.title
-                             | replace: url_placeholder, page_url
-                             | replace: twitter_placeholder, site.twitter_username
-                             | uri_escape
-        %}
-
-        <a href="{{ button_url }}" target="_blank" class="social-button {{ button.title }} {% if button.noPopup != true %}js-social-buttons{% endif %}">
-            <span>
-                {% include social-buttons/{{ button.svg }} %}
-                <span>{{ button.verb }}</span>
-            </span>
-        </a>
-    {% endfor %}
-</div>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-#  Why I want to be a TKH Fellow
+3 Top Reasons why I want to be a TKH Fellow
 
-- Bulleted
-- List
+- _Insatiable Curiosity: ![](jasminecomp.gif) Computer Science is a powerful tool that can be used to solve: from larger than life to everyday problems. I am enthralled by the intersection between natural and computer sciences and how they both together can solve complex problems in research and solves customers needs in business.
+- _Necessity: Now more than ever technology and virtual world is our life line whether we are a part of it or not, it shapes our world and we should all be able to at least have some fluency in not only human languages but computer languages too. My goal is to be multilingual world traveler and coder, a citizen of the world both physical and virtual.
+- _Community: I believe more people, specifically minorities, especially women of color, should have a seat at the table of shaping our virtual world , creating more accurate algorithms incorporating a more comprehensive range of world views and upbringings and utilize our right to rise above poverty to do meaningful, mentally challenging and purposeful work in technology. **I am intrigued by the positive impact computer programming can create in the world and I want to be a part of that movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
+
 
 ## What TKH means to me
 1. Numbered
 2. List
 
-![](jasminecomp.gif)
 
 ### Header 3
 
@@ -63,7 +34,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Contact Information
 
-#### Header 4 
+#### Thank You!
 
 ![](dancecode.gif)
 
