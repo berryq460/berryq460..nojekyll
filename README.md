@@ -6,6 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 </div>
 
+mkdir assets
+cp path/to/image.png ./assets/
+![useful image]({{https://github.com/berryq460/berryq460.github.io/blob/master/VideoCapture_20180529-234010-01%20(2).jpeg  }}/assets/image.jpg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
