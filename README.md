@@ -6,17 +6,17 @@
 
 **3 Top Reasons why I want to be a TKH Fellow**
 
-* _Insatiable Curiosity:
+* Insatiable Curiosity:
 
 ![](jasminecomp.gif) 
 
 Computer Science is a powerful tool that can be used to solve problems ranging from larger than life to reptitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these science can compliment one another from solving complex problems in research to solving customers needs in business or biotechnology.
 
- * _Eager and Willing to Put in the Work to develop my technical skillset:
+ * Eager and Willing to Put in the Work to develop my technical skillset:
 
 I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how technology has become our life-line in a time of crisis. I believe coding should be taught in all grammer schools. Whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world both physical and virtual contributing to postive change in both the cyber and physical world. I am determined to do whatever it takes.
 
- * _Longing to Build Myself & My Community Up:
+ * Longing to Build Myself & My Community Up:
 
 ![](diversity%20in%20tech.png)
 
