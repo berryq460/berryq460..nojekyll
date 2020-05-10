@@ -1,4 +1,4 @@
-## Hello TKH Staff - Welcome ! 
+## Welcome TKH Staff ! 
 
  Grab a seat 
  & Get comfortable :)
