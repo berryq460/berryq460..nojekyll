@@ -22,7 +22,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 **Bold** and _Italic_ and `Code` text
-(https://user-images.githubusercontent.com/24463725/81506993-16b07900-92c8-11ea-998d-e0f3f8320379.jpeg)) and ![https://user-images.githubusercontent.com/24463725/81506993-16b07900-92c8-11ea-998d-e0f3f8320379.jpeg)](src)
+
 
 
 ### Contact Information
