@@ -21,6 +21,8 @@ My goal is to become a multilingual world traveler and coder, a citizen of the w
 Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
 
  * Eager to Contribute to Society and Willing to Put in the Work (to develop my technical skillset):
+ 
+ ![](codingvideogame.gif)
 
 I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. I am determined to do whatever it takes to do my part and then some.
 
@@ -56,8 +58,8 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 
 #### Thank You for Considering My Application!
 
-![](codingvideogame.gif)
-![](game over%20gif.gif)
+
+![](game%20over%20gif.gif)
 
 
 
