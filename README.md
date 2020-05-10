@@ -59,7 +59,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 #### Thank You for Considering My Application!
 
 
-![](game%20over%20gif.gif)
+![](gameover.gif)
 
 
 
