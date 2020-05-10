@@ -1,29 +1,22 @@
 ## Hello, TKH Staff - Welcome to My GitHub Page 
 
-You can use the [editor on GitHub](https://github.com/berryq460/berryq460.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 </div>
 
 ![](tornado.jpeg)
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 **3 Top Reasons why I want to be a TKH Fellow**
 
-- **_Insatiable Curiosity:
+- _Insatiable Curiosity:
 
 ![](jasminecomp.gif) 
 
 Computer Science is a powerful tool that can be used to solve problems ranging from larger than life to reptitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these science can compliment one another from solving complex problems in research to solving customers needs in business or biotechnology.
 
-- **_Eager and Willing to Put in the Work to develop my technical skillset:
+- _Eager and Willing to Put in the Work to develop my technical skillset:
 
 I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how technology has become our life-line in a time of crisis. I believe coding should be taught in all grammer schools. Whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world both physical and virtual contributing to postive change in both the cyber and physical world. I am determined to do whatever it takes.
 
-- **_Longing to Build Myself & My Community Up:
+- _Longing to Build Myself & My Community Up:
 
 ![](diversity%20in%20tech.png)
 
@@ -52,7 +45,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 
 #### Thank You!
 
-![]
+![](codingvideogame.gif)
 
 
 
