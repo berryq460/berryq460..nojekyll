@@ -18,7 +18,7 @@ My goal is to become a multilingual (in human & computer languages) citizen of t
 
 ![](DDmoneycry.gif) 
 
-Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
+I believe *no amount of money will make a person permanetly happy*. Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
 
  * Eager to Contribute to Society and Willing to Put in the Work (to develop my technical skillset):
  
@@ -39,7 +39,7 @@ I believe more people, especially minority women, should have a seat at the tabl
 _I want to become a TKH Innovation Fellow to further stregnthen my abilities to:_
 
 ###  Solve Meaningful Problems
-I believe no amount of money will make a person happy. Time is the biggest currency and I want to invest it in doing purposeful work that can be of great service to others...
+ Time is the biggest currency and I want to invest it in doing purposeful work that can be of great service to others...
 
 ![](aha%20moment%20code.gif)
 
