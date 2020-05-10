@@ -1,6 +1,7 @@
 ## Hello TKH Staff - Welcome ! 
 
- Grab a seat and get comfortable :)
+ Grab a seat 
+ Get comfortable :)
 
 ![](popcorn.gif)
 
