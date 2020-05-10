@@ -26,7 +26,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/berryq460/berryq460.github.io/blob/master/VideoCapture_20180529-234010-01%20(2).jpeg](url) and ![Image](src)
 
 
 ### Contact Information
