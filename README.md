@@ -61,13 +61,13 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][6.1]][6]
-[![alt text][7.1]][7]
+
 
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: http://www.entypo.com/images/linkedin-with-circle.svg
+
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -75,7 +75,6 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [2]: http://www.facebook.com/BerryQ460
 [3]: https://plus.google.com/+QuianaBerry
 [6]: http://www.github.com/berryq460
-[7]: https://www.linkedin.com/in/quiana-c-berry-b727a7143/
 
 
 #### Thank You for Considering My Application!
