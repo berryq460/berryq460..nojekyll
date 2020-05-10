@@ -61,12 +61,13 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][6.1]][6]
-[![alt text][7.1]][7]
+
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[7.1]: <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HT2w1"><a href="//imgur.com/a/HT2w1">LinkedIn Icon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
