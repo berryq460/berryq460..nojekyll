@@ -1,4 +1,8 @@
-## Hello TKH Staff - Welcome ! :)
+## Hello TKH Staff - Welcome ! 
+
+_Grab a Seat & Get Comfortable :)
+
+![](popcorn.gif)
 
 </div>
 
@@ -49,7 +53,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 #### Thank You for Considering My Application!
 
 ![](codingvideogame.gif)
-![](game over gif.gif)
+![](game over%20gif.gif)
 
 
 
