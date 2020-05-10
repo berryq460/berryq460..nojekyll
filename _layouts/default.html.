@@ -1,6 +1,5 @@
    
-      <img src="(<img src="()" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>)" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <img src="(VideoCapture_20180529-234010-01 (2).jpeg)" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
 ## Welcome to My GitHub Page 
