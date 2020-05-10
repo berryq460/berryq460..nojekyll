@@ -6,8 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 </div>
 
-#Images in Read Mes
-![https://user-images.githubusercontent.com/24463725/81506993-16b07900-92c8-11ea-998d-e0f3f8320379.jpeg)
+#Images in Read Mes![https://user-images.githubusercontent.com/24463725/81506993-16b07900-92c8-11ea-998d-e0f3f8320379.jpeg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
