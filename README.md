@@ -10,7 +10,7 @@
 
 ![](tornado.jpeg)
 
-My goal is to become a multilingual world traveler and coder, a citizen of the world who strives to create postive change in both the cyber and physical world. I am an adventurous, insatiable curious, calculated risk-taker whether behind a screen or in my solo backpacking adventures.
+My goal is to become a multilingual (in human & computer languages) citizen of the world who strives to create postive change in both the cyber and physical world. I am currently an adventurous, insatiablly curious, calculated risk-taker- whether behind a book, screen or in my solo backpacking adventures.
 
 **3 Top Reasons why I want to be a TKH Innovation Fellow**
 
