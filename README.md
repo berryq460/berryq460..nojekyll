@@ -20,7 +20,7 @@ I have always been passionate about technology but now I feel a special sense of
 
 ![](diversity%20in%20tech.png)
 
-I believe more people, specifically minorities, especially women of color, should have a seat at the table of shaping our virtual world, creating more accurate algorithms incorporating a more comprehensive range of world views and upbringings and utilize our right to rise above poverty to do meaningful, mentally challenging and purposeful work in technology.
+I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views and excercise our right to rise above poverty to do meaningful, mentally challenging and purposeful work in technology.
 
 **I am intrigued by the positive impact computer programming can create in the world and I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
@@ -34,7 +34,7 @@ A sense of accomplishment and purpose in the work I do...
 ![](aha%20moment%20code.gif)
 
 ### Creatively Express Myself
-I am certain the Web Development & Design Internship combined with my diligence will provide me with a base of tools to enhance my coding vocabulary, thus allowing me to express myself creatively through the art of coding and opening up a new portal to connection and creation...
+I am certain the Web Development & Design Internship combined with my diligence will provide me with a base of tools to enhance my coding vocabulary, thus allowing me to express myself creatively through the art of coding - opening up a new portal to connection and creation...
 
 ![](portal%20cs.gif)
 
@@ -49,6 +49,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 #### Thank You for Considering My Application!
 
 ![](codingvideogame.gif)
+![](game over gif.gif)
 
 
 
