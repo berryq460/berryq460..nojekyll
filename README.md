@@ -21,6 +21,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Header 3
 
+![](aha%20moment%20code.gif)
+
 
 **Bold** and _Italic_ and `Code` text
 
