@@ -1,3 +1,10 @@
+ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      
+      <img src="(<img src="()" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>)" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
 ## Welcome to My GitHub Page 
 
 You can use the [editor on GitHub](https://github.com/berryq460/berryq460.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
