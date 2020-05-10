@@ -10,17 +10,17 @@
 
 ![](jasminecomp.gif) 
 
-Computer Science is a powerful tool that can be used to solve problems ranging from larger than life to reptitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these science can compliment one another from solving complex problems in research to solving customers needs in business or biotechnology.
+Computer Science is a powerful tool that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
 
  * Eager and Willing to Put in the Work (to develop my technical skillset):
 
-I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how technology has become our life-line in a time of crisis. I believe coding should be taught in all grammer schools. Whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world both physical and virtual contributing to postive change in both the cyber and physical world. I am determined to do whatever it takes.
+I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. My goal is to become a multilingual world traveler and coder, a citizen of the world who strives to create postive change in both the cyber and physical world. I am determined to do whatever it takes.
 
  * Longing to Build Myself & My Community Up:
 
 ![](diversity%20in%20tech.png)
 
-I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views and excercise our right to rise above poverty to do meaningful, mentally challenging and purposeful work in technology.
+I believe more people, especially minority women, should have a seat at the table of shaping our virtual world, creating more accurate algorithms by incorporating a more comprehensive range of world views. I believe we must excercise our right to rise above poverty. We must work hard to do meaningful, mentally challenging and purposeful work in technology and we must work smart while changing the face of tech.
 
 **I am intrigued by the positive impact computer programming can create in the world and I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
