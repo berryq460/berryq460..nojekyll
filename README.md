@@ -1,7 +1,7 @@
 ## Welcome to My Web Page TKH Staff ! 
 
  Grab a seat 
- & Get comfortable :)
+ & Get comfortable :sweat_smile:
 
 ![](popcorn.gif)
 
