@@ -1,6 +1,6 @@
 ## Welcome to My Humble Web Page TKH Staff :hand_over_mouth: ! 
 
- Grab a seat 
+ Please Grab a seat 
  & Get comfortable :sweat_smile:
 
 ![](popcorn.gif)
