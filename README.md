@@ -51,7 +51,7 @@ I am certain the Web Development & Design Internship combined with my diligence 
 
 ### Create Collabortively
 
-With a renewed sense of purpose, career, life-style and community I will utilize the opportunity to network, brain-storm and create in a group so that together we can effect greater positive change while leveraging each others unique skills.
+With a renewed sense of purpose, career, life-style and community I will utilize the opportunity to network, brain-storm and create in a group. Together we can effect greater positive change while leveraging each others unique skills.
 
 ![](teamworkoffice.gif)
 
