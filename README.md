@@ -15,7 +15,7 @@ My goal is to become a multilingual (in human & computer languages), citizen of 
 
 **3 Top Reasons why I want to be a TKH Innovation Fellow**
 
-* Purpose over Paycheck:
+* Purpose > Just a Paycheck:
 
 ![](DDmoneycry.gif) 
 
