@@ -7,7 +7,7 @@
 
 </div>
 
-## Who Am I? :thinking:
+## Who Am I? 
 
 ![](tornado.jpeg)
 
