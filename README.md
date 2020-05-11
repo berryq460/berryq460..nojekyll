@@ -7,13 +7,13 @@
 
 </div>
 
-## Who Am I?
+## Who Am I? :thinking:
 
 ![](tornado.jpeg)
 
 My goal is to become a multilingual (in human & computer languages), citizen of the world who strives to create postive change in both the cyber and physical world. I am an adventurous, insatiablly curious, calculated risk-taker- whether behind a book, screen or in my solo backpacking adventures. I'm passionate about adovocating for justices, debating, biking, philosophy, preserving & enjoying nature, real estate, finance and taking the road less travelled - leading by example.
 
-**3 Top Reasons why I want to be a TKH Innovation Fellow**
+**3 Top Reasons why I want to be a TKH Innovation Fellow** 
 
 * Purpose > Just a Paycheck:
 
