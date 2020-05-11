@@ -55,7 +55,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 
 ![](teamworkoffice.gif)
 
-### Contact Information :love_letter:
+### Contact Information
 
 
 [![alt text][2.1]][2]
