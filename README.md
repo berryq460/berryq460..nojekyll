@@ -1,4 +1,4 @@
-## Welcome to My Web Page TKH Staff ! 
+## Welcome to my Web Page TKH Staff ! 
 
  Grab a seat 
  & Get comfortable :)
