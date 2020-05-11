@@ -36,7 +36,7 @@ I believe more people, especially minority women, should have a seat at the tabl
 **I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House community and its programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
 
-## Furthermore...:grimacing:
+## Furthermore...:speech_balloon:
 _I want to become a TKH Innovation Fellow to further stregnthen my abilities to:_
 
 ###  Solve Meaningful Problems
