@@ -25,7 +25,7 @@ I believe *no amount of money will make a person permanetly happy*. What draws m
  
  ![](codingvideogame.gif)
 
-I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. I am determined to do whatever it takes to do my part and then some.
+I have always been passionate about technology but now I feel a special sense of urgency to get involved, especially with how tech has become our life-line in a time of crisis. I believe coding languages, like human ones, are fundamental and should be taught starting in all grammer schools. My philosophy is : whether we are a part of the technological movement or not, tech shapes our world. We all need to do our part in educating ourselves and eachother about it. I am determined to do whatever it takes to do my part and one day help lead the next generation.
 
  * Vision to be a Leader within the Tech Field:
 
