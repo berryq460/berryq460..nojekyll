@@ -11,7 +11,7 @@
 
 ![](tornado.jpeg)
 
-My goal is to become a multilingual (in human & computer languages), citizen of the world who strives to create postive change in both the cyber and physical world. I am an adventurous, insatiablly curious, calculated risk-taker- whether behind a book, screen or in my solo backpacking adventures. I'm passionate about adovocating for what is right, debating, philosophy, preserving & enjoying nature, real estate, finance and taking the road less travelled - leading by example.
+My goal is to become a multilingual (in human & computer languages), citizen of the world who strives to create postive change in both the cyber and physical world. I am an adventurous, insatiablly curious, calculated risk-taker- whether behind a book, screen or in my solo backpacking adventures. I'm passionate about adovocating for what is right, debating, biking, philosophy, preserving & enjoying nature, real estate, finance and taking the road less travelled - leading by example.
 
 **3 Top Reasons why I want to be a TKH Innovation Fellow**
 
@@ -19,7 +19,7 @@ My goal is to become a multilingual (in human & computer languages), citizen of 
 
 ![](DDmoneycry.gif) 
 
-I believe *no amount of money will make a person permanetly happy*. What draws me to tech is the potential to provide service to society through solving problems and creating something that can last long after my time. Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
+I believe *no amount of money will make a person permanetly happy*. What draws me to tech is the potential to provide service to society through solving problems and creating programs/events/tools that can last long after my time. Computer Science and technolgy are powerful tools that can be used to solve problems ranging from larger-than-life to repetitive everyday problems. I am enthralled by the intersection between natural and computer sciences and how these sciences can compliment one another- from solving complex problems in research to solving customers needs in business or biotechnology.
 
  * Eager to Contribute to Society and Willing to Put in the Work (to develop my technical skillset):
  
