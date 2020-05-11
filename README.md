@@ -15,7 +15,7 @@ My goal is to become a multilingual (in human & computer languages), citizen of 
 
 **3 Top Reasons why I want to be a TKH Innovation Fellow** 
 
-* Purpose > Just a Paycheck:
+* Purpose > ~Just a Paycheck~ :
 
 ![](DDmoneycry.gif) 
 
@@ -36,7 +36,7 @@ I believe more people, especially minority women, should have a seat at the tabl
 **I am inspired by the positive impact technology can create in the world when used correctly. The Knowledge House community and its programs are a perfect example of this. I want to contribute to the movement that The Knowledge House is leading to empower high-need, high-potential candidates to one day be high-earning and highly-involved in the future success of the communities they come from.**
 
 
-## Furthermore...
+## Furthermore...:grimacing:
 _I want to become a TKH Innovation Fellow to further stregnthen my abilities to:_
 
 ###  Solve Meaningful Problems
@@ -55,7 +55,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 
 ![](teamworkoffice.gif)
 
-### Contact Information
+### Contact Information :love_letter:
 
 
 [![alt text][2.1]][2]
@@ -77,7 +77,7 @@ With a renewed sense of purpose, career, life-style and community I will utilize
 [6]: http://www.github.com/berryq460
 
 
-#### Thank You for Considering My Application!
+#### Thank You for Considering My Application! :hugs:
 
 
 ![](gameover.gif)
